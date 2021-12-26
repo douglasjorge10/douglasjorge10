@@ -1,10 +1,10 @@
 # 🌀╔╣█╠╗╚Douglas J. Carvalho╝╔╣█╠╗🌀
 ![image](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-## A Cada dia mais querendo evoluir 💻 
+## Um degrau de cada vez.. focado em sempre evoluir 💻 
 🎓 Fazendo do aprendizado uma rotinna<br/>
 😎 Sonhando em ser um proficional completo<br/>
 🥰 Apaixonado pelo modo de ensino da EBAC<br/>
-**Atualmente estudando! Com foco total na formação Front-End pelo EBAC**
+**Atualmente estudando! Com foco total na formação Front-End pela EBAC**
 <!--
 **douglasjorge10/douglasjorge10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
