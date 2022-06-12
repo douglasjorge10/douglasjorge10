@@ -1,5 +1,5 @@
 # 🌀╔╣█╠╗╚Douglas J. Carvalho╝╔╣█╠╗🌀
-![image](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![image](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
 ## Um degrau de cada vez.. focado em sempre evoluir 💻 
 🎓 Fazendo do aprendizado uma rotinna<br/>
 😎 Sonhando em ser um proficional completo<br/>
